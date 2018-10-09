@@ -1,0 +1,19 @@
+.display-4{
+    color:rgb(186, 241, 248);
+    font-family: 'Hi Melody', cursive;
+}
+.lead{
+    color:rgb(127, 228, 223);
+    font-family: 'Hi Melody', cursive;
+}
+.jumbotron{
+    background-image: url(background.jpg);
+    background-attachment: fixed;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color:white;
+
+}
+.logo{
+    height:80px;
+}
